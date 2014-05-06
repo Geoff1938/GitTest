@@ -1,4 +1,4 @@
-import ChecksumAccumulator.calculate
+import CheckSumAccumulator.calculate
 
 object Summer {
   def main(args: Array[String]) {
